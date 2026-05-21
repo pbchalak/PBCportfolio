@@ -1,0 +1,6 @@
+{
+  "name": "Akshay Patil Portfolio",
+  "description": "Social Media Client Portfolio links for Akshay Patil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
